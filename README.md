@@ -6,5 +6,5 @@ A simple Node.js and Express-based API for managing books and authors.
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/K4R-R/Bookstore-api
 cd bookstore-api
