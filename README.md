@@ -21,7 +21,7 @@ echo "PORT=3000" >> .env
 ```
 Then, open .env and update it with the correct values.
 
-###4️⃣ Start the Server
+### 4️⃣ Start the Server
 ```sh
 nodemon server.js
 ```
